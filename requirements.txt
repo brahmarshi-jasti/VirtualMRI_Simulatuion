@@ -1,0 +1,17 @@
+
+### requirements.txt
+
+Dependencies
+Make sure you have the following installed:
+
+MATLAB R2020a or later
+Image Processing Toolbox
+
+
+Output
+This project outputs several phantom images in .png format:
+
+Overlapped phantom image
+Non-overlapped phantom image
+Phantom with circular structures
+Phantom coencentric circles
